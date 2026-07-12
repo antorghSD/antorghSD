@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+💻 Backend Developer in Progress
+🎓 CSE Student at UIU
+🚀 Learning C,C++,Java,MySQL, and Git
+📚 Always exploring new technologies
 <!--
 **antorghSD/antorghSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
